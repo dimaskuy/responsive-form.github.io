@@ -8,6 +8,8 @@
   transition: .3s;
 }
 
+body { overflow-y: hidden; }
+
 .wave {
   height: 100%;
   position: fixed;
